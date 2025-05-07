@@ -2,6 +2,8 @@
 
 This repository contains my work for the **BCGX Data Science Job Simulation** via **Forage**, where I analyzed customer churn for **PowerCo**, a major energy provider. The project follows a **real-world data science workflow**, from **business understanding** to **predictive modeling** and **recommendations**.
 
+Will upload the respective code in a while
+
 ---
 
 ## **Project Overview**  
